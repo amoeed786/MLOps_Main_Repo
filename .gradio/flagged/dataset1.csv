@@ -1,0 +1,7 @@
+User Input,Max Length,Min Length,Use Sampling (Creative Output),output,timestamp
+"The Problem
+We need to build a small predictive solution to identify students' final scores given only a few initial assessments/activities. Given the assessment activities always follow the same order and grading scheme. We need to use previous iterations of the course to train the model(s) and then be able to predict the final score of each student in the current iteration of the course. 
+
+
+Dataset 
+You are given complete assessments of two different courses for morning and afternoon sessions. Use morning assessment as the training set and afternoon session as the testing set. Your predictive model should start predicting the student's score after 5th activity. ",200,15,false,the problem We need to build a small predictive solution to identify students' final scores given only a few initial assessments/activities . use morning assessment as the training set and afternoon session as the testing set.,2025-01-03 18:38:22.095262
